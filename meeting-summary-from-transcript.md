@@ -1,10 +1,10 @@
 # Meeting Summary
 
 ## Task: 
-Please summarize this meeting. Make sure there is a brief overview of the discussed. It doesn't need to be a protocol. But make sure that everything **important** is hightlighted, such as Decisions, Action items, priorities, Roadblocks. At the end, highlight if there are potential misunderstandings or misalignments and what might have caused them. 
+Please summarize this meeting. Make sure there is a brief overview of the discussed. It doesn't need to be a protocol. But make sure that everything **important** is hightlighted, such as **decisions**, **action items**, **priorities**, **roadblocks**. At the end, highlight if there are potential misunderstandings or misalignments and what might have caused them. 
 
-Template
-
+## Template
+```
 # Meeting: {Meeting name}
 Date & Time
 Participants
@@ -27,4 +27,5 @@ Participants
     1.2 Sub-item
 2. Action Item 2
 
-## Potential Misalignments or misconceptions
+## Potential misalignments or misconceptions
+```
